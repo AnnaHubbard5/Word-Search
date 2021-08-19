@@ -1,0 +1,2 @@
+elephant from (7, 4) to (0, 4)
+rabbit from (2, 5) to (2, 0)
